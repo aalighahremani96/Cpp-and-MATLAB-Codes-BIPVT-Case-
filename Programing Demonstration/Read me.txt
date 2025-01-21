@@ -1,0 +1,15 @@
+This project focuses on the analysis of a Building-Integrated Photovoltaic/Thermal (BIPVT) system. The implemented MATLAB and C++ codes calculate:
+
+-Duct outlet air temperature
+
+-Photovoltaic cell temperature
+
+-Other parts temperature 
+
+-Heat gained by the system
+
+-Mass flow rate in the duct
+
+-Various system efficiencies (electrical and overall)
+
+The purpose is to provide proof of coding and programing capabilities.
