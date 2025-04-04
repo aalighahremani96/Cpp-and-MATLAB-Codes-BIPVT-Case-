@@ -1,4 +1,4 @@
-This project focuses on the analysis of a Building-Integrated Photovoltaic/Thermal (BIPVT) system. The implemented MATLAB and C++ codes calculate:
+This project focuses on the analysis of a Building-Integrated Photovoltaic/Thermal (BIPVT) system. The implemented Python, MATLAB and C++ codes calculate:
 
 -Duct outlet air temperature
 
@@ -12,4 +12,4 @@ This project focuses on the analysis of a Building-Integrated Photovoltaic/Therm
 
 -Various system efficiencies (electrical and overall)
 
-The purpose is to provide proof of coding and programing capabilities.
+The purpose is to provide proof of coding and programing capabilities in Python, c++ and Matlab.
